@@ -1,10 +1,8 @@
 import React from "react";
 import "./home.css"
 import devfest from "../images/devfest.jpg"
-import google from "../images/google.png"
-import gdg from "../images/gdg.png"
-import gdgLogo from "../images/gdgHubli.jpg"
-import womenTech from "../images/womenTechmakers.jpg"
+import gdgLogo from "../images/gdgHubli.png"
+import womenTech from "../images/womenTechmakers.png"
 import Companydata from "../data/companyData";
 
 import Companies from "../components/Companies";
