@@ -1,0 +1,54 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.devfest {
+    width: 20%;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.gdgLogo {
+    /* border-radius: 14px; */
+    margin-left: auto;
+    margin-right: 20px;
+    width: 17%;
+}
+.womenTech {
+    margin-right: 30px;
+    width: 20%;
+}
+
+.para {
+    text-align: justify;
+    margin-right:30px ;
+    font-weight:400;
+}
+.google {
+    padding: 0rem 16rem 4rem 3rem;
+    width: 20%;
+}
+.gdg {
+    padding: 0rem 0rem 7rem 0rem;
+    width: 20%;
+}
+
+.wrapper{
+    margin-right: 30px;
+    margin-left: 60px;
+}
+
+h1{
+    padding-top: 25px;
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+h2{
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-size: x-large;
+    font-weight: 650;
+}
