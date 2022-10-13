@@ -2,8 +2,12 @@ const Companiesdata = [
     {
         comp_id: "01",
         companyName: "Company -1",
-        content: "This is content for Company - 1 This is content for Company - 3 Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat. ",
-        imageLink: "/images/gdg.png",
+        content: `As an associate engineer at Akrity, you'll get trained by some great engineers, the
+        master craftsmen of their field. You'll have a very high level of exposure to modern
+        technologies, tools and practices. You'll get exposure to the full lifecycle of software
+        development. What you'll learn in 5 years in a traditional organization, at Akrity, you'll
+        learn in 2 years.`,
+        imageLink: "/images/akrity.jpg",
         redirectLink: "/company",
     },
     {

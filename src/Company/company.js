@@ -16,7 +16,7 @@ const Company = () => {
             }
         });
     }, []);
-    console.log(company)
+    // console.log(company.jobTitle)
 
     {
         return (
@@ -42,7 +42,7 @@ const Company = () => {
                                     <div class="p-4 md:w-3/4 m-auto">
                                         <div class="shadow-xl border-2 bg-gray-200 border-opacity-60 rounded-lg overflow-hidden content: center">
                                             <div class="p-4 w-100">
-                                                <h3 class="title-font text-lg font-medium text-gray-900 mb-2">{company.JobTitle}</h3>
+                                                <h3 class="title-font text-lg font-medium text-gray-900 mb-2">{company.jobTitle}</h3>
                                                 <p class="leading-relaxed mb-1 text-[16px] text-justify">{company.JobDes}</p>
                                                 <div className="buttonwrap pt-5 flex align-end">
                                                     <a href={company.applyLink} class="bg-green-500 ml-auto hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded ">

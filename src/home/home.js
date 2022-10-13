@@ -6,7 +6,7 @@ import Header from "../components/header";
 const Home = () => {
     {
             return (
-                <>
+                <> 
                     <Header/>
                     <div className="wrapper">
                         <h1 className="pb-3 title">DevFest Hubli 2022 - Job board</h1>
