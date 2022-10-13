@@ -1,6 +1,6 @@
 import React from "react";
 import "./home.css"
-import Companydata from "../data/companyData";
+import Companydata from "../data/companiesData";
 import Companies from "../components/Companies";
 import Header from "../components/header";
 const Home = () => {
